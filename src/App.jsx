@@ -7,6 +7,7 @@ import Main from './pages/components/Main';
 import Category from './pages/components/Category';
 import './asset/scss/app.scss';
 
+
 function App() {
   return (
     <BrowserRouter>
